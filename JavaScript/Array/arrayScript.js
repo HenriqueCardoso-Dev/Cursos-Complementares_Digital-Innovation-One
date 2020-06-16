@@ -1,9 +1,11 @@
-let fruitList = ['Apple', 'Orange', 'Strawberry', 'grape'];
+let fruitList = ['Apple', 'Orange', 'Strawberry', 'grape']; // criação do array
 
-console.log(fruitList);
+console.log(fruitList);  // saida do array
 
-fruitList.push('Watermelon');
+fruitList.push('Watermelon'); // adiciona o elemento ao array
 
-console.log(fruitList);
+console.log(fruitList); // saida do array
 
-fruitList.pop;
+fruitList.pop(); // retirada do ultimo elemento do array
+
+console.log(fruitList); // saida do array
